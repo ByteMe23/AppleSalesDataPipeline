@@ -1,4 +1,4 @@
-# Apple Data Analysis using PySpark
+# Apple Product Sales & Customer Insights using PySpark
 
 ## Project Overview
 This project implements an **end-to-end ETL (Extract, Transform, Load) pipeline** to analyze customer transactions related to Apple products using **Apache Spark** in the **Databricks** environment.  
